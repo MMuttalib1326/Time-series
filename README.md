@@ -6,3 +6,6 @@ Secular trend, which describe the movement along the term;
 Seasonal variations, which represent seasonal changes;
 Cyclical fluctuations, which correspond to periodical but not seasonal variations;
 Irregular variations, which are other nonrandom sources of variations of series.
+
+What are the advantages of time series?
+Time series analysis helps organizations understand the underlying causes of trends or systemic patterns over time. Using data visualizations, business users can see seasonal trends and dig deeper into why these trends occur. With modern analytics platforms, these visualizations can go far beyond line graphs.
