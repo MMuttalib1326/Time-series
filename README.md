@@ -9,3 +9,6 @@ Irregular variations, which are other nonrandom sources of variations of series.
 
 What are the advantages of time series?
 Time series analysis helps organizations understand the underlying causes of trends or systemic patterns over time. Using data visualizations, business users can see seasonal trends and dig deeper into why these trends occur. With modern analytics platforms, these visualizations can go far beyond line graphs.
+
+What are 5 uses of time series?
+Time series are used in statistics, signal processing, pattern recognition, econometrics, mathematical finance, weather forecasting, earthquake prediction
