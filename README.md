@@ -12,3 +12,5 @@ Time series analysis helps organizations understand the underlying causes of tre
 
 What are 5 uses of time series?
 Time series are used in statistics, signal processing, pattern recognition, econometrics, mathematical finance, weather forecasting, earthquake prediction
+
+There are two main goals of time series analysis: identifying the nature of the phenomenon represented by the sequence of observations, and forecasting (predicting future values of the time series variable).
