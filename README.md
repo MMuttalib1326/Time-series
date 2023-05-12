@@ -16,5 +16,6 @@ Time series are used in statistics, signal processing, pattern recognition, econ
 
 There are two main goals of time series analysis: identifying the nature of the phenomenon represented by the sequence of observations, and forecasting (predicting future values of the time series variable).
 
+
 What are limitations of time series?
 Time series analysis also suffers from a number of weaknesses, including problems with generalization from a single study, difficulty in obtaining appropriate measures, and problems with accurately identifying the correct model to represent the data.
